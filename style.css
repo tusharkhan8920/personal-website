@@ -1,0 +1,179 @@
+body{
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+    padding: 20px;
+}
+.header{
+    background-image: url('images/header-bg.png');
+    background-repeat: no-repeat;
+    overflow: hidden;
+    background-size: 100%;
+}
+.container{
+    width: 90%;
+    margin: auto;
+}
+.left-side{
+    width: 45%;
+    float: left;
+    margin-left: 70px;
+    margin-top:280px;
+}
+.left-side h2{
+    font-size: 40px;
+}
+.left-side h1{
+    font-size: 50px;
+    color: blueviolet;
+}
+.left-side p{
+    color: grey;
+    width:550px;
+    margin-bottom: 30px;
+}
+.right-side{
+    width: 45%;
+    float: left;
+    margin-top:120px;
+    margin-bottom: 100px;
+}
+.right-side img{
+    width: 500px;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
+.middle{
+    background-image: url('images/biography-bg.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    overflow: hidden;
+    padding: 50px;
+}
+.container{
+    width:90%;
+    margin:auto;
+}
+.left-area2{
+    width: 50%;
+    float: left;
+}
+.right-side2{
+    width: 50%;
+    float: left;
+    margin-top: 80px;
+}
+.left-area2 img{
+    width: 400px;
+   margin-bottom: 100px;
+}
+.right-side2 p{
+    color: grey;
+    margin-bottom: 30px;
+}
+.right-side2 a{
+    text-decoration: none;
+    color: white;
+    background: linear-gradient(90deg, green, white);
+    padding: 10px 40px;
+    border-radius: 5px;
+    font-weight: 700;
+    margin-top: 100px;
+}
+.look{
+    background-image: url('/images/latest-work-bg.png');
+    background-size: 100%;
+    padding: 100px;
+    overflow: hidden;
+}
+.container{
+    width: 100%;
+    
+}
+.look h2{
+    font-size: 40px;
+    text-align: center;
+}
+.look img{
+    width: 25%;
+    margin-top: 40px;
+    margin-right: 25px;
+    margin-left: 52px;
+    box-shadow: 1px 1px 15px rgba(142, 68, 173,1.0);
+}
+
+
+
+body{
+    margin:0;
+    padding: 0;
+}
+.footer{
+    overflow: hidden;
+    background-image: url('images/footer-bg.png');
+    background-repeat: no-repeat;
+    background-size: 100%;  
+}
+.container{
+    width: 90%;
+    margin: auto;
+}
+
+.client-footer h2{
+    font-size: 30px;
+    margin-top: 30px;
+}
+.telbaji{
+    width: 45%;
+    margin-top: 100px;
+    margin-left: 330px;
+    font-weight: bold;
+}
+.tushar-footer h4{
+    margin-top: 90px;
+}
+.founder-footer{
+    color: grey;
+}
+.linkedin-footer p{
+    text-align: center;
+}
+.linkedin-footer{
+    width: 50%;
+    text-decoration: none;
+    background: linear-gradient(120deg, green, white, black);
+    padding: 5px 10px;
+    border-radius: 10px;
+    color: black;
+    font-weight: 900;
+    margin-top: 30px;
+    margin-left: 18%;
+    margin-bottom: 300px;
+}
+.linkedin-footer a{
+    color: black;
+    text-decoration: none;
+}
+
+.last p{
+    text-align: center;
+    color: grey;    
+}
+.client-footer,
+.tushar-footer,
+.founder-footer,
+.telbaji,
+.linkedin-footer{
+    text-align: center;
+}
+.left-side a{
+    text-decoration: none;
+    background: linear-gradient(125deg, green, grey);
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+    margin-top: 100px;
+}
